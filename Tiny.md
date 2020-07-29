@@ -8,7 +8,7 @@
 今天学习目标：了解前端技术基础构成及收集学习材料
 
 ##### CSS盒模型
-![Image text](/IMG/boxmodel-(3).png)
+![Image text](https://github.com/MagicianShadow/Flag/tree/master/IMG/boxmodel-(3).png)
 
 ##### 网站访问过程
 1. 用户访问网站，浏览器向服务器发出一个 HTTP 请求
