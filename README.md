@@ -14,6 +14,8 @@
 
 ![3](IMG/boxmodel-(3).png)
 
+![999](https://github.com/MagicianShadow/Flag/raw/master/IMG/boxmodel-(3).png)
+
 ##### 网站访问过程
 1. 用户访问网站，浏览器向服务器发出一个 HTTP 请求
 2. 服务器接收到 HTTP 请求，服务器调取数据生成页面
