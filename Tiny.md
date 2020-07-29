@@ -1,0 +1,11 @@
+# Flag 设一个小目标 ^_^ :)
+
+### 百度前端学院·学习笔记
+
+20200729
+今天学习目标：了解前端技术基础构成及收集学习材料
+
+##### CSS盒模型
+![Image text](https://mdn.mozillademos.org/files/8685/boxmodel-(3).png)
+
+ES6须深入学习
