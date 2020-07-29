@@ -23,3 +23,8 @@
 XHTML 是作为一种 XML 应用被重新定义的 HTML
 
 ES6须深入学习
+
+##### codepen快捷键整理
+陈未同学写的codepen快捷键整理http://ife.baidu.com/note/detail/id/726
+
+我需要仔细练习！
