@@ -6,6 +6,6 @@
 今天学习目标：了解前端技术基础构成及收集学习材料
 
 ##### CSS盒模型
-![Image text](https://raw.githubusercontent.com/MagicianShadow/Flag/master/IMG/boxmodel-(3).png)
+![Image text](/IMG/boxmodel-(3).png)
 
 ES6须深入学习
